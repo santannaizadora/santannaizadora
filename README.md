@@ -1,8 +1,17 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santannaizadora&label=Profile%20views&color=0e75b6&style=flat" alt="santannaizadora" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/santannaizadora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santannaizadora" height="30" width="40" /></a>
-</p>
+<a target="_blank" href="https://www.linkedin.com/in/santannaizadora/">
+  <img align="left" alt="LinkdeIN"  src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5534991992825">
+  <img align="left" alt="Whatsapp"  src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Whatsapp-icon.png" />
+</a>
+<a target="_blank" href="mailto:santannaizadora@gmail.com">
+  <img align="left" alt="Gmail" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+
+</p></br>
 
 <p align="left">
 </p>
