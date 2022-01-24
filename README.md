@@ -14,9 +14,6 @@ I am currently studying full stack web development at Driven Education.
 <a target="_blank" href="https://www.linkedin.com/in/santannaizadora/">
   <img align="left" alt="LinkdeIN"  src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5534991992825">
-  <img align="left" alt="Whatsapp"  src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Whatsapp-icon.png" />
-</a>
 <a target="_blank" href="mailto:santannaizadora@gmail.com">
   <img align="left" alt="Gmail" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
