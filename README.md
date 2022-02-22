@@ -30,6 +30,6 @@ Atualmente estou estudando desenvolvimento web pela Driven Education
 
 ### Estatísticas do github
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santannaizadora&show_icons=true&theme=tokyonight"/> <br> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santannaizadora&layout=compact&theme=tokyonight"/> <br>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=santannaizadora&show_icons=true&theme=tokyonight"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santannaizadora&layout=compact&theme=tokyonight"/>
 <p>
