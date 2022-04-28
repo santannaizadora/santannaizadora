@@ -1,5 +1,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=santannaizadora&label=Profile%20views&color=0e75b6&style=flat" alt="santannaizadora" /> 
+  <a href="https://wakatime.com/@4c9bd8dd-92dc-4bb5-b2b5-9ae84b643277"><img src="https://wakatime.com/badge/user/4c9bd8dd-92dc-4bb5-b2b5-9ae84b643277.svg" alt="Total time coded since Jan 17 2022" /></a>
 </p>
 
 ### Olá 👋
