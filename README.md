@@ -12,7 +12,7 @@
 
 ### Sobre mim
 
-&emsp; Tive meu primeiro contato com programação enquanto cursava Engenharia Eletrônica, mesmo sendo um assunto pouco abordado, despertou meu interesse pela área e me motivou a buscar mais conteúdos fora da graduação. No final de 2021, sentindo falta de desafios e com a motivação para os estudos abalada tive a oportunidade de ingressar na formação da Driven Education, que trouxe de volta minha motivação e me deu a certeza de que queria trabalhar na área. Com isso interrompi minha graduação em engenharia, iniciei uma em Análise e Desenvolvimento de Sistemas e consegui uma oportunidade de estágio na área.
+&emsp; Tive meu primeiro contato com programação enquanto cursava Engenharia Eletrônica, mesmo sendo um assunto pouco abordado no curso, despertou meu interesse pela área e me motivou a buscar mais conteúdos fora da graduação. No final de 2021, sentindo falta de desafios e com a motivação para os estudos abalada, tive a oportunidade de ingressar na formação da Driven Education, que trouxe de volta minha motivação e me deu a certeza de que queria trabalhar na área. Com isso interrompi minha graduação em engenharia, iniciei uma em Análise e Desenvolvimento de Sistemas e consegui minha primeira oportunidade na área com um estágio.
 
 ### Linguagens
   <br/>
