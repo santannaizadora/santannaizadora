@@ -8,7 +8,6 @@
 
 &emsp; Atualmente sou Desenvolvedora Mobile na Evo Network e graduanda em Análise e Desenvolvimento de Sistemas.<br/>
 
-- 🌱 Estou aprendendo Angular.
 
 ### Sobre mim
 
