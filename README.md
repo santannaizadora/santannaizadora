@@ -6,7 +6,7 @@
 ### Olá 👋
 
 
-&emsp; Atualmente sou Desenvolvedora Mobile na Evo Network e graduanda em Análise e Desenvolvimento de Sistemas.<br/>
+&emsp; Atualmente sou Desenvolvedora na Evo Network e graduanda em Análise e Desenvolvimento de Sistemas.<br/>
 
 
 ### Sobre mim
